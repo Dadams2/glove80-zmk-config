@@ -115,8 +115,8 @@
             &kp GRAVE      &kp N1           &kp N2           &kp N3            &kp N4            &kp N5                                                                      &kp N6           &kp N7              &kp N8              &kp N9           &kp N0           &kp BACKSPACE
             &kp TAB        &kp Q            &kp W            &kp E             &kp R             &kp T                                                                       &kp Y            &kp U               &kp I               &kp O            &kp P            &kp MINUS
             &kp LSHFT      &hrm A LGUI      &hrm S LALT      &hrm D LSHFT      &hrm F LCTRL      &kp G                                                                       &kp H            &hrm J RCTRL        &hrm K RSHFT        &hrm L RALT      &hrm SEMICOLON RGUI &kp SQT
-            &kp RCTRL      &kp Z            &kp X            &kp C             &kp V             &kp B            &kp LSHFT        &lower_layer     &kp GRAVE        &kp LGUI         &kp LALT         &kp DELETE          &kp N            &kp M               &kp COMMA           &kp DOT          &kp FSLH         &kp BSLH
-            &magic MAGIC 0 &kp HOME         &kp LBKT         &kp RBKT          &kp RIGHT                          &mt ESC LSHFT    &mt LGUI ENTER   &lower_layer     &kp BACKSPACE    &mt RGUI SPACE   &mt RSHFT TAB                        &kp MINUS           &kp PLUS            &kp EQUAL        &kp PAGE_UP      &kp PAGE_DOWN
+            &kp RCTRL      &kp Z            &kp X            &kp C             &kp V             &kp B            &kp LSHFT        &LOWER     &kp GRAVE        &kp LGUI         &kp LALT         &kp DELETE          &kp N            &kp M               &kp COMMA           &kp DOT          &kp FSLH         &kp BSLH
+            &magic MAGIC 0 &kp HOME         &kp LBKT         &kp RBKT          &kp RIGHT                          &mt ESC LSHFT    &mt LGUI ENTER   &LOWER     &kp BACKSPACE    &mt RGUI SPACE   &mt RSHFT TAB                        &kp MINUS           &kp PLUS            &kp EQUAL        &kp PAGE_UP      &kp PAGE_DOWN
             >;
         };
 
